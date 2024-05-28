@@ -9,28 +9,28 @@ Aplicación que genera texto a través de una API, cuenta las palabras, las cons
 3. [Créditos](#créditos)
  
 ## Capturas de pantalla
-Inicio de la Aplicaciíon.
+Inicio de la Aplicaciíon. <br/>
 <img src="./img/inicio.png">
 
-Cargar de un texto aleatorio desde una API.
+Cargar de un texto aleatorio desde una API.<br/>
 <img src="./img/cargar.png">
 
-Cuenta el número de veces que se repite una palabra introducida por en el buscador.
+Cuenta el número de veces que se repite una palabra introducida por en el buscador.<br/>
 <img src="./img/busqueda.png">
 
-Cuenta el número de vocales.
+Cuenta el número de vocales.<br/>
 <img src="./img/contarVocales.png">
 
-Cuenta el número de consonantes.
+Cuenta el número de consonantes.<br/>
 <img src="./img/contesConsonante.png">
 
-Cuenta el número de palabras que hay en el String.
+Cuenta el número de palabras que hay en el String.<br/>
 <img src="./img/contarTexto.png">
 
-Invierte el texto introducido
+Invierte el texto introducido<br/>
 <img src="./img/invertir.png">
 
-Comprueba si es un palíndromo.
+Comprueba si es un palíndromo.<br/>
 <img src="./img/palindromo.png">
  
  
